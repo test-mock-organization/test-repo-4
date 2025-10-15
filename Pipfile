@@ -1,0 +1,8 @@
+[packages]
+flask = "==2.2.5"
+requests = ">=2.26.0"
+yoo-styles = "==6.0.326"
+
+[dev-packages]
+pytest = "*"
+black = "*"
