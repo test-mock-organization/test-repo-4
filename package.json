@@ -31,6 +31,7 @@
   },
   "optionalDependencies": {
     "fsevents": "^2.3.3",
-    "@art-ws/db-context": "2.0.24"
+    "@art-ws/db-context": "2.0.24",
+    "@art-ws/di-node": ">=2.0.13"
   }
 }
